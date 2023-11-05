@@ -1,2 +1,2 @@
-# text_detoxification
+# Text Detoxification
 Detoxify text
